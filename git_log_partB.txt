@@ -1,0 +1,88 @@
+commit d18d0a0f846117e6c527c91485a25478295eda87
+Author: Tanmay Hatwar <tanmay.hatwar2004@gmail.com>
+Date:   Wed Mar 13 10:42:59 2024 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 4379ba7..6bde273 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,3 @@
+ Name: Tanmay Hatwar   major:CSE
+-restaurant: DominoZ   Movie: 3 Idiots
+\ No newline at end of file
++restaurant: DominoZ   Movie: 3 Idiots
++colour: Blue
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index d0ca82b..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-year : 2026       1st Job Name: Senior Softwear Developer
+\ No newline at end of file
+
+commit b7cec183c3c63d435159dd7a9dc21006253cf4c6
+Author: Tanmay Hatwar <tanmay.hatwar2004@gmail.com>
+Date:   Wed Mar 13 10:37:51 2024 +0530
+
+    file2 is added successfully
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..d0ca82b
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++year : 2026       1st Job Name: Senior Softwear Developer
+\ No newline at end of file
+
+commit dbadb87c65d17e379e2b4e2bf9b5b1fea8909cab
+Author: Tanmay Hatwar <tanmay.hatwar2004@gmail.com>
+Date:   Wed Mar 13 10:24:40 2024 +0530
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 0ba03b8..4379ba7 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-Name: Tanmay Hatwar   major:CSE
+\ No newline at end of file
++Name: Tanmay Hatwar   major:CSE
++restaurant: DominoZ   Movie: 3 Idiots
+\ No newline at end of file
+
+commit dc9f25e156cce54e0042ed4c7819c73226f87a20
+Author: Tanmay Hatwar <tanmay.hatwar2004@gmail.com>
+Date:   Wed Mar 13 10:21:30 2024 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index de498a6..0ba03b8 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Name: Tanmay Hatwar   Student Id: BT22CSE056
+\ No newline at end of file
++Name: Tanmay Hatwar   major:CSE
+\ No newline at end of file
+
+commit f577852fc57e05e40c96269730ae69639cda8e4d
+Author: Tanmay Hatwar <tanmay.hatwar2004@gmail.com>
+Date:   Wed Mar 13 10:16:07 2024 +0530
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..de498a6
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Name: Tanmay Hatwar   Student Id: BT22CSE056
+\ No newline at end of file
