@@ -1,1 +1,2 @@
 Name: Tanmay Hatwar   major:CSE
+restaurant: DominoZ   Movie: 3 Idiots
